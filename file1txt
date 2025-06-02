@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 This is some change
+=======
+ubuntu@ip-172-31-47-95:~/Feb-2024$ git push
+Username for 'https://github.com': Lohithnagtn
+Password for 'https://Lohithnagtn@github.com':
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 326 bytes | 326.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Lohithnagtn/Feb-2024.git
+   f110cc4..40f32a0  main -> main
+ubuntu@ip-172-31-47-95:~/Feb-2024$
+>>>>>>> 9146edbaf1a5f5b8970616ad99cc6c137939e4b1
